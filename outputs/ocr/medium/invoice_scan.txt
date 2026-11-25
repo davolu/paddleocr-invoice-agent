@@ -1,0 +1,23 @@
+Harmattan Supplies Ltd   INVOICE
+14 Fictional Close, Yaba, Lagos   Invoice No:   HS-INV-2026-0417
+RC DEMO-000000 | hello@harmattan.example   Invoice Date:   18 Nov 2026
+Due Date:   02 Dec 2026
+BILL TO
+Ikoyi Design Studio
+Attn: Accounts
+7 Example Road, Ikoyi, Lagos
+Qty   Unit Price   Amount
+Description
+6   18,500.00   111,000.00
+A4 Copier Paper (box of 5 reams)
+2   42,750.00   85,500.00
+Black Toner Cartridge TN-2420
+1   165,000.00   165,000.00
+Ergonomic Office Chair
+4   6,200.00   24,800.00
+Whiteboard Markers (pack of 12)
+Subtotal   386,300.00
+VAT (7.5%)   28,972.50
+Total (NGN)   415,272.50
+Payment: bank transfer to DEMO BANK, account 0000000000 (fictional).
+Fictional sample document made for a tutorial. Not a real invoice.

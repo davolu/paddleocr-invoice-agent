@@ -1,0 +1,36 @@
+{
+  "doc_type": "invoice",
+  "vendor": "Harmattan Supplies Ltd",
+  "invoice_number": "HS-INV-2026-0468",
+  "invoice_date": "2026-11-24",
+  "due_date": "2026-12-08",
+  "bill_to": "Surulere Print Hub",
+  "currency": "NGN",
+  "line_items": [
+    {
+      "description": "Laminating Pouches A4 (100)",
+      "qty": 5,
+      "unit_price": 8400.0,
+      "amount": 42000.0
+    },
+    {
+      "description": "Paper Guillotine A3",
+      "qty": 1,
+      "unit_price": 54000.0,
+      "amount": 54000.0
+    },
+    {
+      "description": "Binding Combs 10mm (100)",
+      "qty": 3,
+      "unit_price": 5300.0,
+      "amount": 15900.0
+    }
+  ],
+  "subtotal": 111900.0,
+  "tax": 8392.5,
+  "total": 120292.5,
+  "early_payment_discount": {
+    "percent": 2,
+    "pay_by": "2026-12-05"
+  }
+}

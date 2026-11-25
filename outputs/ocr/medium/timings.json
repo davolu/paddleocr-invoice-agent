@@ -1,0 +1,31 @@
+{
+  "tier": "medium",
+  "init_s": 2.44,
+  "docs": {
+    "invoice_clean": {
+      "seconds": 4.26,
+      "lines": 42,
+      "mean_score": 0.9979
+    },
+    "invoice_gotcha": {
+      "seconds": 3.8,
+      "lines": 40,
+      "mean_score": 0.998
+    },
+    "invoice_scan": {
+      "seconds": 2.83,
+      "lines": 42,
+      "mean_score": 0.9986
+    },
+    "invoice_table": {
+      "seconds": 3.91,
+      "lines": 58,
+      "mean_score": 0.9983
+    },
+    "receipt_thermal": {
+      "seconds": 1.29,
+      "lines": 30,
+      "mean_score": 0.994
+    }
+  }
+}

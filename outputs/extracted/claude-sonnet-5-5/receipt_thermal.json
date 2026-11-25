@@ -1,0 +1,40 @@
+{
+  "doc_type": "receipt",
+  "vendor": "HARMATTAN SUPPLIES LTD",
+  "invoice_number": null,
+  "receipt_number": "YC-88213",
+  "invoice_date": "2026-11-23",
+  "due_date": null,
+  "bill_to": null,
+  "currency": "NGN",
+  "line_items": [
+    {
+      "description": "Sticky Notes 3x3",
+      "qty": 3,
+      "unit_price": 1200.0,
+      "amount": 3600.0
+    },
+    {
+      "description": "Gel Pen, Blue (10)",
+      "qty": 2,
+      "unit_price": 2650.0,
+      "amount": 5300.0
+    },
+    {
+      "description": "Stapler, Heavy Duty",
+      "qty": 1,
+      "unit_price": 7800.0,
+      "amount": 7800.0
+    },
+    {
+      "description": "Box Files A4",
+      "qty": 4,
+      "unit_price": 1900.0,
+      "amount": 7600.0
+    }
+  ],
+  "subtotal": 24300.0,
+  "tax": 1822.5,
+  "total": 26122.5,
+  "early_payment_discount": null
+}

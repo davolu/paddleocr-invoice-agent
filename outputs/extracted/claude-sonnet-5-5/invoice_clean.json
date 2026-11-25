@@ -1,0 +1,40 @@
+{
+  "doc_type": "invoice",
+  "vendor": "Harmattan Supplies Ltd",
+  "invoice_number": "HS-INV-2026-0417",
+  "receipt_number": null,
+  "invoice_date": "2026-11-18",
+  "due_date": "2026-12-02",
+  "bill_to": "Ikoyi Design Studio",
+  "currency": "NGN",
+  "line_items": [
+    {
+      "description": "A4 Copier Paper (box of 5 reams)",
+      "qty": 6,
+      "unit_price": 18500.0,
+      "amount": 111000.0
+    },
+    {
+      "description": "Black Toner Cartridge TN-2420",
+      "qty": 2,
+      "unit_price": 42750.0,
+      "amount": 85500.0
+    },
+    {
+      "description": "Ergonomic Office Chair",
+      "qty": 1,
+      "unit_price": 165000.0,
+      "amount": 165000.0
+    },
+    {
+      "description": "Whiteboard Markers (pack of 12)",
+      "qty": 4,
+      "unit_price": 6200.0,
+      "amount": 24800.0
+    }
+  ],
+  "subtotal": 386300.0,
+  "tax": 28972.5,
+  "total": 415272.5,
+  "early_payment_discount": null
+}

@@ -1,0 +1,31 @@
+{
+  "total_matched": 137,
+  "total_fields": 137,
+  "docs": {
+    "invoice_clean": {
+      "matched": 25,
+      "fields": 25,
+      "misses": []
+    },
+    "invoice_gotcha": {
+      "matched": 23,
+      "fields": 23,
+      "misses": []
+    },
+    "invoice_scan": {
+      "matched": 25,
+      "fields": 25,
+      "misses": []
+    },
+    "invoice_table": {
+      "matched": 41,
+      "fields": 41,
+      "misses": []
+    },
+    "receipt_thermal": {
+      "matched": 23,
+      "fields": 23,
+      "misses": []
+    }
+  }
+}
