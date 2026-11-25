@@ -1,0 +1,62 @@
+{
+  "doc_type": "invoice",
+  "vendor": "Harmattan Supplies Ltd",
+  "invoice_number": "HS-INV-2026-0452",
+  "invoice_date": "2026-11-21",
+  "due_date": "2026-12-05",
+  "bill_to": "Lekki Coding Academy",
+  "currency": "NGN",
+  "line_items": [
+    {
+      "description": "USB-C Docking Station",
+      "qty": 5,
+      "unit_price": 38900.0,
+      "amount": 194500.0
+    },
+    {
+      "description": "27-inch Monitor",
+      "qty": 5,
+      "unit_price": 189500.0,
+      "amount": 947500.0
+    },
+    {
+      "description": "Wireless Keyboard and Mouse Set",
+      "qty": 10,
+      "unit_price": 15400.0,
+      "amount": 154000.0
+    },
+    {
+      "description": "HDMI Cable 2m",
+      "qty": 12,
+      "unit_price": 3250.0,
+      "amount": 39000.0
+    },
+    {
+      "description": "Laptop Stand, Aluminium",
+      "qty": 10,
+      "unit_price": 11800.0,
+      "amount": 118000.0
+    },
+    {
+      "description": "Surge Protector, 6-way",
+      "qty": 6,
+      "unit_price": 9750.0,
+      "amount": 58500.0
+    },
+    {
+      "description": "Noise-cancelling Headset",
+      "qty": 4,
+      "unit_price": 47600.0,
+      "amount": 190400.0
+    },
+    {
+      "description": "Cable Ties (bag of 100)",
+      "qty": 3,
+      "unit_price": 1450.0,
+      "amount": 4350.0
+    }
+  ],
+  "subtotal": 1706250.0,
+  "tax": 127968.75,
+  "total": 1834218.75
+}
